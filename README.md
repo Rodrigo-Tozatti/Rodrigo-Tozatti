@@ -22,5 +22,5 @@ software | Docker | CI/DI | Testes de segurança | Metodologia Ágil – Scrum |
 performance JMeter |
 </br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Tozatti&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Tozatti&hide_progress=true)](https://github.com/Rodrigo-Tozatti/github-readme-stats)
 </br>
